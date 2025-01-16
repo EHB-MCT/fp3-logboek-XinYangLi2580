@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `14/01/2025`  
+**Datum:** `15/01/2025`  
 **Studentnaam:** `Yanis`  
 **Groepsnaam:** `AMD Ryzen 5`
 
@@ -15,10 +15,9 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 **Activiteiten:**
 
-- Ik heb mijn zelf oefeningen klaar gemaakt, MoodBoard en Personas.
-- Als Scrum Master heb ik ook de Sprint planning voor deze week (week1) ingediend.
-- Met de hele team hebben we de concepten en de Pitch bewerkt.
-- Als Scrum Master heb ik ook aan heel mijn team uitgelegt wat we moeten doen voor morgen (prototype, design voor de prototype en research op chatBot)
+- Ik heb een chatbot gemaakt die ik op een demo website heeft aangepast (ik heb die gemaakt via BotPress: https://botpress.com/ )
+- Met Ralf heb ik verder de concepten bewerkt na de laatste feedback dat ik had met Kobe om meer inzicht ideëen te krijgen.
+- Als Scrum Master heb ik ook aan heel mijn team uitgelegt wat we moeten doen voor morgen (prototype afwerken, design afwerken voor de presentatie en laatste concept bewerken)
 - Als laatst hebben we de dag beindigt met een scrum meeting.
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
@@ -30,7 +29,8 @@ _Instructie (1 item per dag volstaat):_
 
   **Nieuwe skills:**
 
-- Ik heb geleerd hoe moeilijk het kan zijn om een chatbot te maken en daardoor heb ik ook een grotere inzicht daarop.
+- Ik heb geleerd hoe we een chatbot maken.
+- Ik heb geleerd hoe we concepted meer concreet moeten maken met een ambetante persona.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
@@ -42,3 +42,5 @@ _Instructie:_
   **Algmeeen gevoel:**
 
 - **"Gefrustreerd"** :zap:
+
+- In het voormiddag hadden we veel frustratie omwille van de feedback maar na de feedback en concept te bekijken en verwerken en nog een aantale keren feedback ging was de namiddage veel smooth.

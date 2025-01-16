@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `14/01/2025`  
+**Datum:** `16/01/2025`  
 **Studentnaam:** `Yanis`  
 **Groepsnaam:** `AMD Ryzen 5`
 
@@ -15,11 +15,11 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 **Activiteiten:**
 
-- Ik heb mijn zelf oefeningen klaar gemaakt, MoodBoard en Personas.
-- Als Scrum Master heb ik ook de Sprint planning voor deze week (week1) ingediend.
-- Met de hele team hebben we de concepten en de Pitch bewerkt.
-- Als Scrum Master heb ik ook aan heel mijn team uitgelegt wat we moeten doen voor morgen (prototype, design voor de prototype en research op chatBot)
-- Als laatst hebben we de dag beindigt met een scrum meeting.
+- We hebben samen ook de prototype verwerkt om de laatste feautures en paginas te toe te passen in onze prototype.
+- we hebben ook de pitch/presentatie uitgeschreven en geoefent.
+- Ik heb planning gemaakt voor presentatie.
+- Als Scrum Master heb ik ook aan heel mijn team uitgelegt wat we moeten doen voor morgen (presentatie en begin met rollen te verdelen voor programmatie)
+-
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
@@ -30,7 +30,8 @@ _Instructie (1 item per dag volstaat):_
 
   **Nieuwe skills:**
 
-- Ik heb geleerd hoe moeilijk het kan zijn om een chatbot te maken en daardoor heb ik ook een grotere inzicht daarop.
+- Ik heb meer geleerd over Figma hoe we een beter prototype kunnen doen.
+- Ik heb meer geleerd op vak van design via user testing en feedback.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
@@ -41,4 +42,4 @@ _Instructie:_
 
   **Algmeeen gevoel:**
 
-- **"Gefrustreerd"** :zap:
+- **"Blij"** :smiley:
